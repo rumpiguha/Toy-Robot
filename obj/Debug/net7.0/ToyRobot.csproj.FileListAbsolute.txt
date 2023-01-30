@@ -1,0 +1,15 @@
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\ToyRobot.csproj.AssemblyReference.cache
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\ToyRobot.AssemblyInfoInputs.cache
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\ToyRobot.AssemblyInfo.cs
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\bin\Debug\net7.0\ToyRobot.exe
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\bin\Debug\net7.0\ToyRobot.deps.json
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\bin\Debug\net7.0\ToyRobot.runtimeconfig.json
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\bin\Debug\net7.0\ToyRobot.dll
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\bin\Debug\net7.0\ToyRobot.pdb
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\ToyRobot.dll
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\refint\ToyRobot.dll
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\ToyRobot.pdb
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\ToyRobot.genruntimeconfig.cache
+C:\Users\RumpiGuha\source\repos\Practice\ToyRobot\obj\Debug\net7.0\ref\ToyRobot.dll
